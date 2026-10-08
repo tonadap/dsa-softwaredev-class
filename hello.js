@@ -10,5 +10,5 @@ age = 0.9;
 
 console.log (name)
 
-console.log (age)
+
 
